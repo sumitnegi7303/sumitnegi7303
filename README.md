@@ -15,6 +15,8 @@ Hi there, I'm Sumit! I transitioned into tech from a non-technical background Ma
 🤝Connect with me:
 www.linkedin.com/in/sumit-negi-56518423b
 
+https://public.tableau.com/app/profile/sumit.negi
+
 
 <!---
 sumitnegi7303/sumitnegi7303 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
